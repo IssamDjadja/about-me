@@ -4,11 +4,11 @@ Issameddined0993@hstat.org
 
 Highschool Telecommunications arts and Technology
 
-My age is 17. I enjoy writing poetry.
+My age is 17. I learned how to do this in SEP11 class.
 
 Schedule
 
-1) SP11
+1) SEP11
 
 2) English
 
