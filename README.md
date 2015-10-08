@@ -1,9 +1,9 @@
-**Issam Djadja**  
+**Issam Djadja**
 Issameddined0993@hstat.org
 
-*Highschool Telecommunications arts and Technology*  
-My age is 17. I learned how to do this in SEP11 class.
+*Highschool Telecommunications arts and Technology*
 
+My age is 17. I learned how to do this in SEP11 class.    
 * Bold
 * italicize
 * Bullet stuff
@@ -11,7 +11,7 @@ My age is 17. I learned how to do this in SEP11 class.
 * Embed a url in text
 
 
-**Schedule**
+#**Schedule**   
 
 1) SEP11  
 2) English  
@@ -20,4 +20,4 @@ My age is 17. I learned how to do this in SEP11 class.
 5) Ap Calculus  
 6) Lunch  
 7) Ap Biology  
-8) Ap Biology  
+8) Ap Biology
